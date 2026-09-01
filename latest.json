@@ -1,7 +1,7 @@
 {
-  "version": "2.42",
-  "title": "현대그린푸드 발주시스템 2.42",
-  "notes": "QR 인증 후 앱 불러오기 오류 수정. Android 로컬 HTTP 통신 허용, QR 인증 직후 실제 PC 연결 검증, 인증키/서버/네트워크/데이터 형식 오류 구분 안내, 앱 v1.3.1 내장.",
-  "sha256": "b42f444b8e3e55b449a70cbc23affa8796ae3f280064254b9be701316ba17462",
+  "version": "2.43",
+  "title": "현대그린푸드 발주시스템 2.43",
+  "notes": "PC 연동 주소 선택 오류 수정. Hyper-V/WSL/VPN 가상 어댑터보다 Windows 실제 기본 네트워크 경로의 LAN IPv4를 우선 사용해 QR endpoint를 생성합니다. 앱 v1.3.2 내장. 다른 발주 기능은 유지.",
+  "sha256": "3c08f5bf8d91c03a5db081af80d4585f241b98957985474a2eb0587cfe3944b6",
   "download_url": ""
 }
